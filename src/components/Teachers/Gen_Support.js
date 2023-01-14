@@ -5,7 +5,7 @@ const gen_contact_data = [
     bio: "",
     linkedin: "",
     image: "sonal.jpg",
-    phone: 8017077624,
+    phone: 8420483447,
     whatsapp: "Whatsapp",
   },
   {
