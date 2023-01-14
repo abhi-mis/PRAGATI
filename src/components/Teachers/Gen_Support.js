@@ -1,6 +1,15 @@
 const gen_contact_data = [
   {
     id: 1,
+    name: "Sonal Jaiswal",
+    bio: "",
+    linkedin: "",
+    image: "sonal.jpg",
+    phone: 8017077624,
+    whatsapp: "Whatsapp",
+  },
+  {
+    id: 2,
     name: "Nabanita Bakshi",
     bio: "",
     phone: 7044604970,
@@ -9,7 +18,7 @@ const gen_contact_data = [
     whatsapp: "Whatsapp",
   },
   {
-    id: 2,
+    id: 3,
     name: "Tiasa Deshmukh",
     bio: "",
     linkedin: "",
@@ -18,7 +27,7 @@ const gen_contact_data = [
     whatsapp: "Whatsapp",
   },
   {
-    id: 3,
+    id: 4,
     name: "Kriti Ganeriwal",
     bio: "",
     linkedin: "",
@@ -27,7 +36,7 @@ const gen_contact_data = [
     whatsapp: "Whatsapp",
   },
   {
-    id: 4,
+    id: 5,
     name: "Kaushik Shaw",
     bio: "",
     linkedin: "",
@@ -36,7 +45,7 @@ const gen_contact_data = [
     whatsapp: "Whatsapp",
   },
   {
-    id: 5,
+    id: 6,
     name: "Rit Prasad Dhar",
     bio: "",
     linkedin: "",
