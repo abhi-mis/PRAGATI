@@ -458,7 +458,7 @@ const eventDetails = [
     googlr_Form: "https://forms.gle/14k7Hzp8UC1UCJ839",
     rules:
       "https://drive.google.com/file/d/1KZFZfcbUT942b34b9vuP198mtI1NCQOO/view?usp=share_link",
-    reg_link: "https://forms.gle/14k7Hzp8UC1UCJ839",
+    reg_link: "",
     contacts: {
       incharge: [
         {
@@ -512,7 +512,7 @@ const eventDetails = [
     googlr_Form: "https://forms.gle/14k7Hzp8UC1UCJ839",
     rules:
       "https://drive.google.com/file/d/14sIjFadpPZT1qazZ_VX7en71gX_u8AAr/view",
-    reg_link: "https://forms.gle/14k7Hzp8UC1UCJ839",
+    reg_link: "",
     contacts: {
       incharge: [
         {
