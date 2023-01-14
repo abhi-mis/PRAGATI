@@ -44,5 +44,14 @@ const gen_contact_data = [
     phone: 8017077624,
     whatsapp: "Whatsapp",
   },
+  {
+    id: 6,
+    name: "Sonal Jaiswal",
+    bio: "",
+    linkedin: "",
+    image: "sonal.jpg",
+    phone: 8017077624,
+    whatsapp: "Whatsapp",
+  },
 ];
 export default gen_contact_data;
