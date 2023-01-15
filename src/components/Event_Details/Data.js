@@ -10,7 +10,7 @@ const eventDetails = [
     googlr_Form: "https://forms.gle/14k7Hzp8UC1UCJ839",
     rules:
       "https://drive.google.com/file/d/1wbHkTbxonMzzwENULDr21Dtc-kOjctjk/view?usp=share_link",
-    reg_link: "https://forms.gle/14k7Hzp8UC1UCJ839",
+    reg_link: "",
     contacts: {
       incharge: [
         {
@@ -77,7 +77,7 @@ const eventDetails = [
     googlr_Form: "https://forms.gle/14k7Hzp8UC1UCJ839",
     rules:
       "https://drive.google.com/file/d/14jo8d6ts7BUQ325CjTny9PX_rwdg5Gok/view?usp=share_link",
-    reg_link: "https://forms.gle/14k7Hzp8UC1UCJ839",
+    reg_link: "",
     contacts: {
       incharge: [
         {
@@ -149,7 +149,7 @@ const eventDetails = [
     googlr_Form: "https://forms.gle/14k7Hzp8UC1UCJ839",
     rules:
       "https://drive.google.com/file/d/16JbRipSaEunAaS-ZpsWezPy5hs9Jo1TX/view?usp=share_link",
-    reg_link: "https://forms.gle/14k7Hzp8UC1UCJ839",
+    reg_link: "",
     contacts: {
       incharge: [
         {
@@ -212,7 +212,7 @@ const eventDetails = [
     googlr_Form: "https://forms.gle/14k7Hzp8UC1UCJ839",
     rules:
       "https://drive.google.com/file/d/1ik51cXNPFOS-xtGUg_zz5tW4lkP1Zgi6/view?usp=share_link",
-    reg_link: "https://forms.gle/14k7Hzp8UC1UCJ839",
+    reg_link: "",
     contacts: {
       incharge: [
         {
@@ -276,7 +276,7 @@ const eventDetails = [
     googlr_Form: "https://forms.gle/co64X9ixbpViitgV6",
     rules:
       "https://drive.google.com/file/d/1PqPSovfoBz0130LRcZq5S4rPc5a78LgG/view?usp=share_link",
-    reg_link: "https://forms.gle/co64X9ixbpViitgV6",
+    reg_link: "",
     contacts: {
       incharge: [
         {
@@ -341,7 +341,7 @@ const eventDetails = [
     googlr_Form: "https://forms.gle/N8Yp4VkrRMZyGjpT6",
     rules:
       "https://drive.google.com/file/d/1hA7TwOypmZgoA5SALT7WEKe-w6yHSo-V/view?usp=share_link",
-    reg_link: "https://forms.gle/N8Yp4VkrRMZyGjpT6",
+    reg_link: "",
     contacts: {
       incharge: [
         {
@@ -398,7 +398,7 @@ const eventDetails = [
     googlr_Form: "https://forms.gle/v2yqUHwkHzQmNhdn6",
     rules:
       "https://drive.google.com/file/d/1-4o_jexI2lGs65gFcm9U-9cZsW3y10pK/view?usp=share_link",
-    reg_link: "https://forms.gle/v2yqUHwkHzQmNhdn6",
+    reg_link: "",
     contacts: {
       incharge: [
         {
@@ -658,7 +658,7 @@ const eventDetails = [
     googlr_Form: "https://forms.gle/14k7Hzp8UC1UCJ839",
     rules:
       "https://drive.google.com/file/d/1sbWB3DVfeRDJJl7G6-10l_HFKGVlshU7/view?usp=share_link",
-    reg_link: "https://forms.gle/14k7Hzp8UC1UCJ839",
+    reg_link: "",
     contacts: {
       incharge: [
         {
@@ -713,7 +713,7 @@ const eventDetails = [
     googlr_Form: "https://forms.gle/14k7Hzp8UC1UCJ839",
     rules:
       "https://drive.google.com/file/d/19qjROzzuFbOkUChABWnzlPenQYzl3mMP/view?usp=share_link",
-    reg_link: "https://forms.gle/14k7Hzp8UC1UCJ839",
+    reg_link: "",
     contacts: {
       incharge: [
         {
@@ -768,7 +768,7 @@ const eventDetails = [
     googlr_Form: "https://forms.gle/14k7Hzp8UC1UCJ839",
     rules:
       "https://drive.google.com/file/d/1UT9pYrvFFSztCVFjROS3KWrtokEJ-mP6/view?usp=share_link",
-    reg_link: "https://forms.gle/14k7Hzp8UC1UCJ839",
+    reg_link: "",
     contacts: {
       incharge: [
         {
@@ -866,7 +866,7 @@ const eventDetails = [
     googlr_Form: "https://forms.gle/14k7Hzp8UC1UCJ839",
     rules:
       "https://drive.google.com/file/d/1CouNs8tDR-AhqQd1P8gb7xCDtTJmMBtH/view?usp=share_link",
-    reg_link: "https://forms.gle/14k7Hzp8UC1UCJ839",
+    reg_link: "",
     contacts: {
       incharge: [
         {
@@ -971,7 +971,7 @@ const eventDetails = [
     googlr_Form: "https://forms.gle/14k7Hzp8UC1UCJ839",
     rules:
       "https://drive.google.com/file/d/11iY28Rw9NzWXUbQSNFiPy34ftuVfKVTU/view?usp=share_link",
-    reg_link: "https://forms.gle/14k7Hzp8UC1UCJ839",
+    reg_link: "",
 
     contacts: {
       incharge: [
@@ -1070,7 +1070,7 @@ const eventDetails = [
     googlr_Form: "https://forms.gle/14k7Hzp8UC1UCJ839",
     rules:
       "https://drive.google.com/file/d/1r0RyaBapTJw3iM9CpVKtsTQ1P54y3zAd/view?usp=share_link",
-    reg_link: "https://forms.gle/14k7Hzp8UC1UCJ839",
+    reg_link: "",
 
     contacts: {
       incharge: [
